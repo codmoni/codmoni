@@ -30,3 +30,13 @@
 ---
 
 ✨ *더 나은 세상을 만드는 개발자가 되기 위해 노력하고 있습니다. 협업이 필요하다면 언제든지 연락 주세요!* ✨
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codmoni&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/codmoni"
+    width="600"
+    height="120"
+  />
+</a>
+  
