@@ -1,21 +1,22 @@
-# Hi there! 👋
+# 꾸준히 성장하는 개발자, 모니입니다.
 
-안녕하세요!  
-저는 **프론트 엔드, 백엔드 개발**과 **알고리즘 문제 해결**에 관심이 많은 개발자입니다.  
-효율적이고 확장 가능한 서비스를 설계하고 사용자 경험을 개선하는 데 많은 고민을 하고 있습니다.
+## About me
+### ✨ **함께 성장**하는 분위기를 지향합니다.
+스스로를 돌아보며 부족한 점을 개선하고, 팀원들과 함께 목표를 달성하며 서로 배워가는 데 큰 의미를 둡니다.
+혼자보다 팀의 성장에 기여할 때 동기부여를 많이 받고, 동료의 성장을 통해 제 자신도 성장하는 걸 중요하게 여깁니다.
+
+### ✨ 깊이 있는 학습과 구조적 사고를 지향합니다.
+무엇이든 원리부터 이해하고 구조적으로 정리하는 걸 좋아합니다. 
+문제를 단순히 ‘해결’하기보다, 재사용 가능한 형태로 ‘정리’하는 과정에서 즐거움을 느낍니다.
+궁극적으로 효율적이고 확장 가능한 서비스를 설계하고 사용자 경험을 개선하는 데 많은 고민을 하고 있습니다.
+
+### ✨ 새로운 경험에 열려있습니다.
+모든 경험을 통해 스스로를 돌아보려 합니다. 
+스스로 어떻게 느끼고 성장하고 있는 지를 관찰하는 과정에서 보람을 느낍니다.
 
 ---
-
-## 🛠️ Tech Stack
-- **Languages**: JavaScript (ES6+), Java, Python
-- **Backend**: Node.js (Express), RESTful API, Prisma, Jest
-- **Frontend**: React.js, HTML/CSS
-- **Database**: MySQL
-- **Tools**: Git/GitHub, Notion, VS Code
-
----
-
 ## 📂 Projects
+- (2024.08~2025.08) KKIJUK v1 [(click to go!)](https://github.com/kkijuk) 
 
 
 ---
@@ -26,17 +27,4 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codmoni&layout=compact&theme=tokyonight)
-
----
-
-✨ *더 나은 세상을 만드는 개발자가 되기 위해 노력하고 있습니다. 협업이 필요하다면 언제든지 연락 주세요!* ✨
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codmoni&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/codmoni"
-    width="600"
-    height="120"
-  />
-</a>
   
